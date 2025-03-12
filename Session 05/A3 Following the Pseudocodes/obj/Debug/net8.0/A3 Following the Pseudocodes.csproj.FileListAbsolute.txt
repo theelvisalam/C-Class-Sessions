@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\bin\Debug\net8.0\A3 Following the Pseudocodes.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\bin\Debug\net8.0\A3 Following the Pseudocodes.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\bin\Debug\net8.0\A3 Following the Pseudocodes.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\bin\Debug\net8.0\A3 Following the Pseudocodes.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\bin\Debug\net8.0\A3 Following the Pseudocodes.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\refint\A3 Following the Pseudocodes.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\A3 Following the Pseudocodes.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A3 Following the Pseudocodes\obj\Debug\net8.0\ref\A3 Following the Pseudocodes.dll

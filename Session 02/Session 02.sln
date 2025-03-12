@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "review", "review\review.csproj", "{A7537763-52D4-413E-903F-41FD44FF97FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{CFF8A6DD-BC74-4F98-871D-5750FFF56949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7537763-52D4-413E-903F-41FD44FF97FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7537763-52D4-413E-903F-41FD44FF97FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7537763-52D4-413E-903F-41FD44FF97FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7537763-52D4-413E-903F-41FD44FF97FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF8A6DD-BC74-4F98-871D-5750FFF56949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF8A6DD-BC74-4F98-871D-5750FFF56949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF8A6DD-BC74-4F98-871D-5750FFF56949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF8A6DD-BC74-4F98-871D-5750FFF56949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

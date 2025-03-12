@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\bin\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\bin\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\bin\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\bin\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\bin\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\refint\B5 Equilateral, Scalene, Isosceles Triangles.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\B5 Equilateral, Scalene, Isosceles Triangles.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B5 Equilateral, Scalene, Isosceles Triangles\obj\Debug\net8.0\ref\B5 Equilateral, Scalene, Isosceles Triangles.dll

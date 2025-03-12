@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\bin\Debug\net8.0\B6 BMI.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\bin\Debug\net8.0\B6 BMI.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\bin\Debug\net8.0\B6 BMI.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\bin\Debug\net8.0\B6 BMI.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\bin\Debug\net8.0\B6 BMI.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\refint\B6 BMI.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\B6 BMI.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B6 BMI\obj\Debug\net8.0\ref\B6 BMI.dll

@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\bin\Debug\net8.0\Commenting.exe
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\bin\Debug\net8.0\Commenting.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\bin\Debug\net8.0\Commenting.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\bin\Debug\net8.0\Commenting.dll
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\bin\Debug\net8.0\Commenting.pdb
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.dll
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\refint\Commenting.dll
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.pdb
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\Commenting.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 01\Commenting\obj\Debug\net8.0\ref\Commenting.dll

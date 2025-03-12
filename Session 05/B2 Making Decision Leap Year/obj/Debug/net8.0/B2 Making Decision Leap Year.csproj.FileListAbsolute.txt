@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\bin\Debug\net8.0\B2 Making Decision Leap Year.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\bin\Debug\net8.0\B2 Making Decision Leap Year.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\bin\Debug\net8.0\B2 Making Decision Leap Year.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\bin\Debug\net8.0\B2 Making Decision Leap Year.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\bin\Debug\net8.0\B2 Making Decision Leap Year.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\refint\B2 Making Decision Leap Year.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\B2 Making Decision Leap Year.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B2 Making Decision Leap Year\obj\Debug\net8.0\ref\B2 Making Decision Leap Year.dll

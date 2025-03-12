@@ -1,0 +1,28 @@
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.exe
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.deps.json
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.runtimeconfig.json
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.dll
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.pdb
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.AssemblyInfoInputs.cache
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.AssemblyInfo.cs
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.csproj.CoreCompileInputs.cache
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.dll
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\refint\D. Loop-Based Conditional Sequence.dll
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.pdb
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.genruntimeconfig.cache
+C:\Users\alame9676\Desktop\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\ref\D. Loop-Based Conditional Sequence.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.exe
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.deps.json
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\bin\Debug\net8.0\D. Loop-Based Conditional Sequence.pdb
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\refint\D. Loop-Based Conditional Sequence.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.pdb
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\D. Loop-Based Conditional Sequence.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\D. Loop-Based Conditional Sequence\obj\Debug\net8.0\ref\D. Loop-Based Conditional Sequence.dll

@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\bin\Debug\net8.0\A1 Printing.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\bin\Debug\net8.0\A1 Printing.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\bin\Debug\net8.0\A1 Printing.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\bin\Debug\net8.0\A1 Printing.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\bin\Debug\net8.0\A1 Printing.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\refint\A1 Printing.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\A1 Printing.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A1 Printing\obj\Debug\net8.0\ref\A1 Printing.dll

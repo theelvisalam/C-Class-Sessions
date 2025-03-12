@@ -1,0 +1,14 @@
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.AssemblyInfoInputs.cache
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.AssemblyInfo.cs
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.csproj.CoreCompileInputs.cache
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\bin\Debug\net8.0\A3 Postives.exe
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\bin\Debug\net8.0\A3 Postives.deps.json
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\bin\Debug\net8.0\A3 Postives.runtimeconfig.json
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\bin\Debug\net8.0\A3 Postives.dll
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\bin\Debug\net8.0\A3 Postives.pdb
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.dll
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\refint\A3 Postives.dll
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.pdb
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\A3 Postives.genruntimeconfig.cache
+c:\Users\Elvis\Desktop\c# class\In Session Code 03\A3 Postives\obj\Debug\net8.0\ref\A3 Postives.dll

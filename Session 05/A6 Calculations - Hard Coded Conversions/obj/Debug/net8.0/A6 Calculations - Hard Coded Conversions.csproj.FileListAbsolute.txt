@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\bin\Debug\net8.0\A6 Calculations - Hard Coded Conversions.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\bin\Debug\net8.0\A6 Calculations - Hard Coded Conversions.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\bin\Debug\net8.0\A6 Calculations - Hard Coded Conversions.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\bin\Debug\net8.0\A6 Calculations - Hard Coded Conversions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\bin\Debug\net8.0\A6 Calculations - Hard Coded Conversions.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\refint\A6 Calculations - Hard Coded Conversions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\A6 Calculations - Hard Coded Conversions.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A6 Calculations - Hard Coded Conversions\obj\Debug\net8.0\ref\A6 Calculations - Hard Coded Conversions.dll

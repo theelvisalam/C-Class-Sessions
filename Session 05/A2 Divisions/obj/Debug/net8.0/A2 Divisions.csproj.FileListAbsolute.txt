@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\bin\Debug\net8.0\A2 Divisions.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\bin\Debug\net8.0\A2 Divisions.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\bin\Debug\net8.0\A2 Divisions.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\bin\Debug\net8.0\A2 Divisions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\bin\Debug\net8.0\A2 Divisions.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\refint\A2 Divisions.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\A2 Divisions.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A2 Divisions\obj\Debug\net8.0\ref\A2 Divisions.dll

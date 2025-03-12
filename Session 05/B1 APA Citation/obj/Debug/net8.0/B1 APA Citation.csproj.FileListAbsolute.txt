@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\bin\Debug\net8.0\B1 APA Citation.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\bin\Debug\net8.0\B1 APA Citation.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\bin\Debug\net8.0\B1 APA Citation.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\bin\Debug\net8.0\B1 APA Citation.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\bin\Debug\net8.0\B1 APA Citation.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\refint\B1 APA Citation.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\B1 APA Citation.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\B1 APA Citation\obj\Debug\net8.0\ref\B1 APA Citation.dll

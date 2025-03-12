@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\bin\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\bin\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\bin\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\bin\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\bin\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\refint\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits\obj\Debug\net8.0\ref\C3 Sequence of 3-Digit Numbers w 2 Repeated Digits.dll

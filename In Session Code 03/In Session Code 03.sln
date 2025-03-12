@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3 Postives", "A3 Postives\A3 Postives.csproj", "{44FF9CE2-EDAA-4030-A418-B0B97EFFD6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4 Odd Even", "A4 Odd Even\A4 Odd Even.csproj", "{8AF1F8F4-E7DA-4B7C-827C-DA144FBC206E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1 Scores to Letter Grades", "B1 Scores to Letter Grades\B1 Scores to Letter Grades.csproj", "{6145F3F5-870F-4FA5-80CD-BD0983D8C018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FF9CE2-EDAA-4030-A418-B0B97EFFD6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FF9CE2-EDAA-4030-A418-B0B97EFFD6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FF9CE2-EDAA-4030-A418-B0B97EFFD6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FF9CE2-EDAA-4030-A418-B0B97EFFD6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF1F8F4-E7DA-4B7C-827C-DA144FBC206E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF1F8F4-E7DA-4B7C-827C-DA144FBC206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF1F8F4-E7DA-4B7C-827C-DA144FBC206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF1F8F4-E7DA-4B7C-827C-DA144FBC206E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6145F3F5-870F-4FA5-80CD-BD0983D8C018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6145F3F5-870F-4FA5-80CD-BD0983D8C018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6145F3F5-870F-4FA5-80CD-BD0983D8C018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6145F3F5-870F-4FA5-80CD-BD0983D8C018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

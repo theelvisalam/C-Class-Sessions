@@ -1,0 +1,14 @@
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\bin\Debug\net8.0\variables.exe
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\bin\Debug\net8.0\variables.deps.json
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\bin\Debug\net8.0\variables.dll
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\bin\Debug\net8.0\variables.pdb
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.dll
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\refint\variables.dll
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.pdb
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+c:\Users\Elvis\Desktop\c# class\Session 02\variables\obj\Debug\net8.0\ref\variables.dll

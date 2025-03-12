@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\bin\Debug\net8.0\A4 Calculations.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\bin\Debug\net8.0\A4 Calculations.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\bin\Debug\net8.0\A4 Calculations.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\bin\Debug\net8.0\A4 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\bin\Debug\net8.0\A4 Calculations.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\refint\A4 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\A4 Calculations.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A4 Calculations\obj\Debug\net8.0\ref\A4 Calculations.dll

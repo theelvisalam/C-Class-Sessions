@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\bin\Debug\net8.0\C2 Sequence of Numbers.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\bin\Debug\net8.0\C2 Sequence of Numbers.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\bin\Debug\net8.0\C2 Sequence of Numbers.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\bin\Debug\net8.0\C2 Sequence of Numbers.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\bin\Debug\net8.0\C2 Sequence of Numbers.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\refint\C2 Sequence of Numbers.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\C2 Sequence of Numbers.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C2 Sequence of Numbers\obj\Debug\net8.0\ref\C2 Sequence of Numbers.dll

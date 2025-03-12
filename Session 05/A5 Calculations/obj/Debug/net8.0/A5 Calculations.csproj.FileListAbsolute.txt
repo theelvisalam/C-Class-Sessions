@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\bin\Debug\net8.0\A5 Calculations.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\bin\Debug\net8.0\A5 Calculations.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\bin\Debug\net8.0\A5 Calculations.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\bin\Debug\net8.0\A5 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\bin\Debug\net8.0\A5 Calculations.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\refint\A5 Calculations.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\A5 Calculations.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\A5 Calculations\obj\Debug\net8.0\ref\A5 Calculations.dll

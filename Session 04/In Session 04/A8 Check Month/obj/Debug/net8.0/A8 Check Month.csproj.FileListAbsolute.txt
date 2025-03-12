@@ -1,0 +1,14 @@
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\bin\Debug\net8.0\A8 Check Month.exe
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\bin\Debug\net8.0\A8 Check Month.deps.json
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\bin\Debug\net8.0\A8 Check Month.runtimeconfig.json
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\bin\Debug\net8.0\A8 Check Month.dll
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\bin\Debug\net8.0\A8 Check Month.pdb
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.AssemblyInfoInputs.cache
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.AssemblyInfo.cs
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.csproj.CoreCompileInputs.cache
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.dll
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\refint\A8 Check Month.dll
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.pdb
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\A8 Check Month.genruntimeconfig.cache
+c:\Users\Elvis\Desktop\c# class\Session 04\In Session 04\A8 Check Month\obj\Debug\net8.0\ref\A8 Check Month.dll

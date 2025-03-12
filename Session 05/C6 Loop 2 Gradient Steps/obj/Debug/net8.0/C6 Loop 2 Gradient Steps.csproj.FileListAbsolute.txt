@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\bin\Debug\net8.0\C6 Loop 2 Gradient Steps.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\bin\Debug\net8.0\C6 Loop 2 Gradient Steps.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\bin\Debug\net8.0\C6 Loop 2 Gradient Steps.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\bin\Debug\net8.0\C6 Loop 2 Gradient Steps.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\bin\Debug\net8.0\C6 Loop 2 Gradient Steps.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\refint\C6 Loop 2 Gradient Steps.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\C6 Loop 2 Gradient Steps.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C6 Loop 2 Gradient Steps\obj\Debug\net8.0\ref\C6 Loop 2 Gradient Steps.dll

@@ -1,0 +1,14 @@
+C:\Users\wum\Downloads\Session 02\review\bin\Debug\net8.0\review.exe
+C:\Users\wum\Downloads\Session 02\review\bin\Debug\net8.0\review.deps.json
+C:\Users\wum\Downloads\Session 02\review\bin\Debug\net8.0\review.runtimeconfig.json
+C:\Users\wum\Downloads\Session 02\review\bin\Debug\net8.0\review.dll
+C:\Users\wum\Downloads\Session 02\review\bin\Debug\net8.0\review.pdb
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.AssemblyInfoInputs.cache
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.AssemblyInfo.cs
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.csproj.CoreCompileInputs.cache
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.dll
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\refint\review.dll
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.pdb
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\review.genruntimeconfig.cache
+C:\Users\wum\Downloads\Session 02\review\obj\Debug\net8.0\ref\review.dll

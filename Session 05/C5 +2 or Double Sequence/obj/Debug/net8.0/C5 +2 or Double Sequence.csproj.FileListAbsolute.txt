@@ -1,0 +1,14 @@
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\bin\Debug\net8.0\C5 +2 or Double Sequence.exe
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\bin\Debug\net8.0\C5 +2 or Double Sequence.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\bin\Debug\net8.0\C5 +2 or Double Sequence.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\bin\Debug\net8.0\C5 +2 or Double Sequence.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\bin\Debug\net8.0\C5 +2 or Double Sequence.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\refint\C5 +2 or Double Sequence.dll
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.pdb
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\C5 +2 or Double Sequence.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 05\C5 +2 or Double Sequence\obj\Debug\net8.0\ref\C5 +2 or Double Sequence.dll

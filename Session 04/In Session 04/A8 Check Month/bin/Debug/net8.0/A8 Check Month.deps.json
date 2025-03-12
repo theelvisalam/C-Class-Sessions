@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A8 Check Month/1.0.0": {
+        "runtime": {
+          "A8 Check Month.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A8 Check Month/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
