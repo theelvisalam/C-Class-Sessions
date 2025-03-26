@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\bin\Debug\net8.0\D7 Is Even.exe
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\bin\Debug\net8.0\D7 Is Even.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\bin\Debug\net8.0\D7 Is Even.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\bin\Debug\net8.0\D7 Is Even.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\bin\Debug\net8.0\D7 Is Even.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\refint\D7 Is Even.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\D7 Is Even.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\D7 Is Even\obj\Debug\net8.0\ref\D7 Is Even.dll

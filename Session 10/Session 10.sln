@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6 Square Up", "D6 Square Up\D6 Square Up.csproj", "{1B7BA960-FADB-43D6-A5BF-0B76496A7CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8 Max Span", "D8 Max Span\D8 Max Span.csproj", "{10F981B7-350A-4968-B4C6-33C35A89FC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7BA960-FADB-43D6-A5BF-0B76496A7CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7BA960-FADB-43D6-A5BF-0B76496A7CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7BA960-FADB-43D6-A5BF-0B76496A7CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7BA960-FADB-43D6-A5BF-0B76496A7CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
