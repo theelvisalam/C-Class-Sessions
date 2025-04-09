@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\bin\Debug\net8.0\E2 Painting Estimate.exe
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\bin\Debug\net8.0\E2 Painting Estimate.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\bin\Debug\net8.0\E2 Painting Estimate.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\bin\Debug\net8.0\E2 Painting Estimate.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\bin\Debug\net8.0\E2 Painting Estimate.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\refint\E2 Painting Estimate.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\E2 Painting Estimate.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\E2 Painting Estimate\obj\Debug\net8.0\ref\E2 Painting Estimate.dll

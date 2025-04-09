@@ -1,0 +1,14 @@
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\bin\Debug\net8.0\A - Sentinel-Control Loop.exe
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\bin\Debug\net8.0\A - Sentinel-Control Loop.deps.json
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\bin\Debug\net8.0\A - Sentinel-Control Loop.runtimeconfig.json
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\bin\Debug\net8.0\A - Sentinel-Control Loop.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\bin\Debug\net8.0\A - Sentinel-Control Loop.pdb
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.AssemblyInfoInputs.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.AssemblyInfo.cs
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.csproj.CoreCompileInputs.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\refint\A - Sentinel-Control Loop.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.pdb
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\A - Sentinel-Control Loop.genruntimeconfig.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\A - Sentinel-Control Loop\obj\Debug\net8.0\ref\A - Sentinel-Control Loop.dll

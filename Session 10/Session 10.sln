@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6 Square Up", "D6 Square U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8 Max Span", "D8 Max Span\D8 Max Span.csproj", "{10F981B7-350A-4968-B4C6-33C35A89FC34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2 Iterations - printouts", "B2 Iterations - printouts\B2 Iterations - printouts.csproj", "{07CF77E5-CE2A-47F4-BBA3-6E6E2B979728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1 Array - FA23", "C1 Array - FA23\C1 Array - FA23.csproj", "{B46D7508-AD7A-4C27-92A6-EBA394CD15FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F981B7-350A-4968-B4C6-33C35A89FC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CF77E5-CE2A-47F4-BBA3-6E6E2B979728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CF77E5-CE2A-47F4-BBA3-6E6E2B979728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CF77E5-CE2A-47F4-BBA3-6E6E2B979728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CF77E5-CE2A-47F4-BBA3-6E6E2B979728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46D7508-AD7A-4C27-92A6-EBA394CD15FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46D7508-AD7A-4C27-92A6-EBA394CD15FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46D7508-AD7A-4C27-92A6-EBA394CD15FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46D7508-AD7A-4C27-92A6-EBA394CD15FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

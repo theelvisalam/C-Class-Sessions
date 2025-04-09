@@ -1,0 +1,14 @@
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\bin\Debug\net8.0\B - Array-1.exe
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\bin\Debug\net8.0\B - Array-1.deps.json
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\bin\Debug\net8.0\B - Array-1.runtimeconfig.json
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\bin\Debug\net8.0\B - Array-1.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\bin\Debug\net8.0\B - Array-1.pdb
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.AssemblyInfoInputs.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.AssemblyInfo.cs
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.csproj.CoreCompileInputs.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\refint\B - Array-1.dll
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.pdb
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\B - Array-1.genruntimeconfig.cache
+C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\B - Array-1\obj\Debug\net8.0\ref\B - Array-1.dll

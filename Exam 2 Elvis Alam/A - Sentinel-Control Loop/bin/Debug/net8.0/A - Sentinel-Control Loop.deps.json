@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A - Sentinel-Control Loop/1.0.0": {
+        "runtime": {
+          "A - Sentinel-Control Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A - Sentinel-Control Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

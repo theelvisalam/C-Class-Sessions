@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\bin\Debug\net8.0\B2 Iterations - printouts.exe
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\bin\Debug\net8.0\B2 Iterations - printouts.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\bin\Debug\net8.0\B2 Iterations - printouts.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\bin\Debug\net8.0\B2 Iterations - printouts.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\bin\Debug\net8.0\B2 Iterations - printouts.pdb
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\refint\B2 Iterations - printouts.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.pdb
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\B2 Iterations - printouts.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\B2 Iterations - printouts\obj\Debug\net8.0\ref\B2 Iterations - printouts.dll

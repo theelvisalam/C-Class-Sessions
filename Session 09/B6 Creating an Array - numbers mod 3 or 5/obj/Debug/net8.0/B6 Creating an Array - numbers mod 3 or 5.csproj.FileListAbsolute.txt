@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\bin\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.exe
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\bin\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\bin\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\bin\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\bin\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\refint\B6 Creating an Array - numbers mod 3 or 5.dll
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.pdb
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\B6 Creating an Array - numbers mod 3 or 5.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 09\B6 Creating an Array - numbers mod 3 or 5\obj\Debug\net8.0\ref\B6 Creating an Array - numbers mod 3 or 5.dll

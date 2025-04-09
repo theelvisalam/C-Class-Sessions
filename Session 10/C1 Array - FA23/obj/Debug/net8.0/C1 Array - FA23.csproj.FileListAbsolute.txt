@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\bin\Debug\net8.0\C1 Array - FA23.exe
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\bin\Debug\net8.0\C1 Array - FA23.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\bin\Debug\net8.0\C1 Array - FA23.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\bin\Debug\net8.0\C1 Array - FA23.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\bin\Debug\net8.0\C1 Array - FA23.pdb
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\refint\C1 Array - FA23.dll
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.pdb
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\C1 Array - FA23.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 10\C1 Array - FA23\obj\Debug\net8.0\ref\C1 Array - FA23.dll

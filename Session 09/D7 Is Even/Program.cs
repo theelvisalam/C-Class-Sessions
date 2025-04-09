@@ -14,22 +14,17 @@
 //     Console.WriteLine(isEven);
 // }
 
-void DisplayInteger()
+static void Main()
 {
-    Console.WriteLine("Enter an integer");
-    int n = int.Parse(Console.ReadLine());
+    DisplayInteger(0);
 }
 
-bool isEven()
+static void DisplayInteger(int n)
 {
-    if (n % 2 == 0)
-    {
-        isEven = true;
-        Console.WriteLine(isEven);
-    }
-    else
-    {
-        isEven = false;
-        Console.WriteLine(isEven);
-    }
+    Console.WriteLine("Enter an integer");
+    n = int.Parse(Console.ReadLine());
+
+    Console.WriteLine($"{n} is {(IsEven(n) ? "Even" : "Odd")}");
 }
+
+static bool IsEven(int n) => n % 2 == 0;
