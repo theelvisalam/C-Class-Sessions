@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method.intro", "Method.intro\Method.intro.csproj", "{8C3FC2DA-EAC5-4950-8393-10BFFA77658E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output.Methods", "Output.Methods\Output.Methods.csproj", "{CF4345F2-17FA-4EAA-A664-D562371C9B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloads", "MethodOverloads\MethodOverloads.csproj", "{9FA25472-8E2F-41CE-894D-AE5D483F5262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3FC2DA-EAC5-4950-8393-10BFFA77658E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3FC2DA-EAC5-4950-8393-10BFFA77658E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3FC2DA-EAC5-4950-8393-10BFFA77658E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3FC2DA-EAC5-4950-8393-10BFFA77658E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4345F2-17FA-4EAA-A664-D562371C9B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4345F2-17FA-4EAA-A664-D562371C9B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4345F2-17FA-4EAA-A664-D562371C9B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4345F2-17FA-4EAA-A664-D562371C9B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA25472-8E2F-41CE-894D-AE5D483F5262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA25472-8E2F-41CE-894D-AE5D483F5262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA25472-8E2F-41CE-894D-AE5D483F5262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA25472-8E2F-41CE-894D-AE5D483F5262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

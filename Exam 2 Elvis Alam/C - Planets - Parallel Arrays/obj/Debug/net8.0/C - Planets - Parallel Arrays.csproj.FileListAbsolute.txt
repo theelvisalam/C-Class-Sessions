@@ -12,3 +12,18 @@ C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\D
 C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.pdb
 C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.genruntimeconfig.cache
 C:\Users\alame9676\Desktop\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\ref\C - Planets - Parallel Arrays.dll
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.dll
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\refint\C - Planets - Parallel Arrays.dll
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.pdb
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\bin\Debug\net8.0\C - Planets - Parallel Arrays.exe
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\bin\Debug\net8.0\C - Planets - Parallel Arrays.deps.json
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\bin\Debug\net8.0\C - Planets - Parallel Arrays.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\bin\Debug\net8.0\C - Planets - Parallel Arrays.dll
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\bin\Debug\net8.0\C - Planets - Parallel Arrays.pdb
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\C - Planets - Parallel Arrays.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Exam 2 Elvis Alam\C - Planets - Parallel Arrays\obj\Debug\net8.0\ref\C - Planets - Parallel Arrays.dll

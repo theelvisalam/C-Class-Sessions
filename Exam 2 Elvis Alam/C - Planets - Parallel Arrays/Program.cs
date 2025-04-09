@@ -40,23 +40,23 @@ for (int i = 0; i < planet.Length; i++) {
 }
 
 
-int min = density[0];
-int max = density[0];
-int index_min = -1;
-int index_max = -1;
+// int min = density[0];
+// int max = density[0];
+// int index_min = -1;
+// int index_max = -1;
 
-for (int i = 0; i < density.Length; i++) {
-        if (density[i] < min) {
-              min = density[i];
-              index_min = i;  
-        }
-        if (density[i] > max) {
-                max = density[i];
-                index_max = i;
-        }
-}
+// for (int i = 0; i < density.Length; i++) {
+//         if (density[i] < min) {
+//               min = density[i];
+//               index_min = i;  
+//         }
+//         if (density[i] > max) {
+//                 max = density[i];
+//                 index_max = i;
+//         }
+// }
 
-Console.WriteLine($"a) Least Dense: {planet[index_min]}  b) Densest: {planet[index_max]}  c) Second densest: {planet[index_max - 1]}");
+// Console.WriteLine($"a) Least Dense: {planet[index_min]}  b) Densest: {planet[index_max]}  c) Second densest: {planet[index_max - 1]}");
 
 
 

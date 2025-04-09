@@ -12,3 +12,18 @@ C:\Users\alame9676\Desktop\C# Midterm\A. Linear Equation - Variables\obj\Debug\n
 C:\Users\alame9676\Desktop\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.pdb
 C:\Users\alame9676\Desktop\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.genruntimeconfig.cache
 C:\Users\alame9676\Desktop\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\ref\A. Linear Equation - Variables.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\bin\Debug\net8.0\A. Linear Equation - Variables.exe
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\bin\Debug\net8.0\A. Linear Equation - Variables.deps.json
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\bin\Debug\net8.0\A. Linear Equation - Variables.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\bin\Debug\net8.0\A. Linear Equation - Variables.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\bin\Debug\net8.0\A. Linear Equation - Variables.pdb
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\refint\A. Linear Equation - Variables.dll
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.pdb
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\A. Linear Equation - Variables.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\C# Midterm\A. Linear Equation - Variables\obj\Debug\net8.0\ref\A. Linear Equation - Variables.dll

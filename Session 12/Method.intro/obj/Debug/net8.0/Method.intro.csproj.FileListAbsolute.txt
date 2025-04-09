@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\bin\Debug\net8.0\Method.intro.exe
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\bin\Debug\net8.0\Method.intro.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\bin\Debug\net8.0\Method.intro.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\bin\Debug\net8.0\Method.intro.dll
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\bin\Debug\net8.0\Method.intro.pdb
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.dll
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\refint\Method.intro.dll
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.pdb
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\Method.intro.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 12\Method.intro\obj\Debug\net8.0\ref\Method.intro.dll
