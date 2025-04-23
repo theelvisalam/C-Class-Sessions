@@ -1,0 +1,15 @@
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\bin\Debug\net8.0\E2 Creating an Array. starting - ending number.exe
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\bin\Debug\net8.0\E2 Creating an Array. starting - ending number.deps.json
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\bin\Debug\net8.0\E2 Creating an Array. starting - ending number.runtimeconfig.json
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\bin\Debug\net8.0\E2 Creating an Array. starting - ending number.dll
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\bin\Debug\net8.0\E2 Creating an Array. starting - ending number.pdb
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.sourcelink.json
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.dll
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\refint\E2 Creating an Array. starting - ending number.dll
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.pdb
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\E2 Creating an Array. starting - ending number.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\c# class\Session 07\E2 Creating an Array. starting - ending number\obj\Debug\net8.0\ref\E2 Creating an Array. starting - ending number.dll
