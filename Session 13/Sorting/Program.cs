@@ -1,4 +1,6 @@
-﻿namespace Sorting
+﻿using System;
+
+namespace Sorting
 {
     class Program
     {
@@ -115,7 +117,7 @@
                     temp[k] = a[i];
                     i++;
                 }
-                else if (a[i] < a[j])
+                else if (LessThan(a[i], a[j]))
                 {
                     temp[k] = a[i];
                     i++;
@@ -138,16 +140,179 @@
                 Merge(a, start, mid, mid + 1, end, temp);
             }
         }
+
         static void QuickSort(int[] a)
         {
+            Sort(a, 0, a.Length - 1);
+        }
+        static void Sort(int[] arr, int low, int high)
+        {
+            if (low < high)
+            {
+                // pi is partitioning index, arr[pi] is now at right place
+                int pi = Partition(arr, low, high);
+
+                // Recursively sort elements before
+                // partition and after partition
+                Sort(arr, low, pi - 1);
+                Sort(arr, pi + 1, high);
+            }
         }
 
-        static void HeapSort(int[] a)
+        static int Partition(int[] arr, int low, int high)
         {
+            // pivot
+            int pivot = arr[high];
+
+            // Index of smaller element
+            int i = (low - 1);
+
+            for (int j = low; j < high; j++)
+            {
+                // If current element is smaller than the pivot
+                if (LessThanOrEquals(arr[j], pivot))
+                {
+                    // increment index of smaller element
+                    i++;
+
+                    Swap(ref arr[i], ref arr[j]);
+                }
+            }
+
+            Swap(ref arr[i + 1], ref arr[high]);
+
+            return (i + 1);
         }
 
-        static void IntroSort(int[] a)
+        static void HeapSort(int[] array)
         {
+            int n = array.Length;
+
+            // Build max heap
+            for (int i = n / 2 - 1; i >= 0; i--)
+                Heapify(array, i, n);
+
+            // One by one extract an element from heap
+            for (int i = n - 1; i > 0; i--)
+            {
+                // Move current root to end
+                Swap(ref array[0], ref array[i]);
+
+                // call max heapify on the reduced heap
+                Heapify(array, 0, i);
+            }
+        }
+
+        // To heapify a subtree rooted with node i which is
+        // an index in array[]. n is size of heap
+        static void Heapify(int[] array, int i, int n)
+        {
+            int largest = i; // Initialize largest as root
+            int l = 2 * i + 1; // left = 2*i + 1
+            int r = 2 * i + 2; // right = 2*i + 2
+
+            // If left child is larger than root
+            if (l < n && GreaterThan(array[l], array[largest]))
+                largest = l;
+
+            // If right child is larger than largest so far
+            if (r < n && GreaterThan(array[r], array[largest]))
+                largest = r;
+
+            // If largest is not root
+            if (largest != i)
+            {
+                Swap(ref array[i], ref array[largest]);
+
+                // Recursively heapify the affected sub-tree
+                Heapify(array, largest, n);
+            }
+        }
+
+        static void IntroSort(int[] arr)
+        {
+            int n = arr.Length;
+            int maxdepth = 2 * (int)Math.Log(n, 2);
+            IntroSortRecursive(arr, 0, n - 1, maxdepth);
+        }
+
+        static void IntroSortRecursive(int[] arr, int low, int high, int maxdepth)
+        {
+            if (high - low <= 16)
+            {
+                InsertionSort(arr, low, high);
+                return;
+            }
+            else if (maxdepth == 0)
+            {
+                HeapSort(arr, low, high);
+                return;
+            }
+            else
+            {
+                int pi = Partition(arr, low, high);
+                IntroSortRecursive(arr, low, pi - 1, maxdepth - 1);
+                IntroSortRecursive(arr, pi + 1, high, maxdepth - 1);
+            }
+        }
+
+        static void InsertionSort(int[] arr, int low, int high)
+        {
+            for (int i = low + 1; i <= high; i++)
+            {
+                int key = arr[i];
+                int j = i - 1;
+
+                while (j >= low && GreaterThan(arr[j], key))
+                {
+                    arr[j + 1] = arr[j];
+                    j = j - 1;
+                }
+                arr[j + 1] = key;
+            }
+        }
+
+        static void HeapSort(int[] arr, int low, int high)
+        {
+            int n = high - low + 1;
+
+            // Build max heap
+            for (int i = low + n / 2 - 1; i >= low; i--)
+                Heapify(arr, i, n, low);
+
+            // One by one extract an element from heap
+            for (int i = high; i > low; i--)
+            {
+                // Move current root to end
+                Swap(ref arr[low], ref arr[i]);
+
+                // call max heapify on the reduced heap
+                Heapify(arr, low, i - low, low);
+            }
+        }
+
+        static void Heapify(int[] arr, int i, int n, int offset)
+        {
+            int largest = i - offset; // Initialize largest as root
+            int l = 2 * (i - offset) + 1 + offset; // left = 2*i + 1
+            int r = 2 * (i - offset) + 2 + offset; // right = 2*i + 2
+
+            // If left child is larger than root
+            if (l < n + offset && GreaterThan(arr[l], arr[largest + offset]))
+                largest = l - offset;
+
+            // If right child is larger than largest so far
+            if (r < n + offset && GreaterThan(arr[r], arr[largest + offset]))
+                largest = r - offset;
+
+            // If largest is not root
+            if (largest != i - offset)
+            {
+                Swap(ref arr[i], ref arr[largest + offset]);
+
+                // Recursively heapify the affected sub-tree
+                Heapify(arr, largest + offset, n, offset);
+            }
         }
 
         static void Main(string[] args)
@@ -191,7 +356,7 @@
                 }
                 else
                 {
-                    status = "   --   ";
+                    status = "    --   ";
                 }
 
                 Console.WriteLine("{0,16} {3,8} {1,16} with {2,8:N0} bytes used.",
